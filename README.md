@@ -26,23 +26,8 @@
 
 ---
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ankit-156&label=VISITORS&color=00ff00&style=for-the-badge"/>
 
-</div>
-
----
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="220"/>
-
-</p>
-
----
-
-<div align="center">
 
 ### ⚠️ WELCOME TO MY GITHUB PROFILE ⚠️
 
