@@ -1,24 +1,69 @@
-# Hi 👋, I'm Ankit
+<h1 align="center">Hi, I'm Ankit Attri 👋</h1>
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ankit-156&show_icons=true&theme=github_dark" />
-
-<img src="https://streak-stats.demolab.com?user=ankit-156&theme=github-dark-blue" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-156&layout=compact&theme=github_dark" />
+<p align="center">
+B.Tech CSE Student • Java Developer • DSA Enthusiast
+</p>
 
 ---
 
-## 💻 Tech Stack
+## About Me
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- 🎓 B.Tech CSE, Chandigarh University
+- 💻 Interested in Software Development and Problem Solving
+- 🌱 Currently learning DSA, Java, React, and System Design
+- 🎯 Target: Software Engineering roles at top product companies
 
 ---
 
-## 🔗 Connect With Me
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+### Languages
+- Java
+- C++
+- JavaScript
+- SQL
+
+### Web Development
+- HTML
+- CSS
+- React
+- Bootstrap
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- MySQL
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit-156&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-156&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankit-156&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankit-156/ankit-156/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+## Contact
+
+- GitHub: https://github.com/ankit-156
+- LinkedIn: https://www.linkedin.com/in/ankit-attri-76a6b6289/
+- Email: attriankit81@gmail.com
