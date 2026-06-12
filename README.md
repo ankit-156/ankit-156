@@ -4,7 +4,7 @@
 
 ### I do open source :)
 
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="350"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxrYnpsMzVwZHBhOGprbzBmamptc3FhanRlcjY1cHhuczl3Yng4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="400" />
 
 </div>
 
